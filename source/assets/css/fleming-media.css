@@ -1,0 +1,38 @@
+/* Fleming CSS framework (by @krdprog). License: MIT */
+/* https://github.com/krdprog/fleming */
+/* fleming-media.css */
+
+/* < 480 mobile --- 767 */
+@media (max-width: 480px) {
+
+}
+
+@media(max-width:767px) {
+
+}
+
+/* 768 - 1023 */
+@media (min-width: 768px) and (max-width: 1023px) {
+
+}
+
+/* 1024 - 1200 */
+@media (min-width: 1024px) and (max-width: 1200px) {
+
+}
+
+/* > 1400 */
+@media (min-width: 1400px) {
+
+}
+
+/* > 1600 */
+@media (min-width: 1600px) {
+
+}
+
+
+/* > 1800 */
+@media (min-width: 1800px) {
+
+}
