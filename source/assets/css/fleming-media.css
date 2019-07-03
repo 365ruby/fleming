@@ -38,6 +38,26 @@
   .navigation--fixed {
     position: relative;
   }
+
+  .block-with-cover__text p {
+    font-size: 2rem;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .block-with-cover__text span {
+    font-size: 1.3rem;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .block-with-cover__text span::before {
+    display: none;
+  }
+
+  .block-with-cover__text span::after {
+    display: none;
+  }
 }
 
 @media(max-width:767px) {
