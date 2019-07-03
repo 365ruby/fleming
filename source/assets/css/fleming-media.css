@@ -58,6 +58,11 @@
   .block-with-cover__text span::after {
     display: none;
   }
+
+  .btn {
+    min-width: 260px;
+    font-size: 1rem;
+  }
 }
 
 @media(max-width:767px) {
