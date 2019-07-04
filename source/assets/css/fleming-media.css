@@ -5,8 +5,10 @@
 /* < 480 mobile --- 767 */
 @media (max-width: 480px) {
 
+  .logo_mobile_center {
+    justify-content: center;
+  }
   .header__logo {
-    text-align: center;
     margin-bottom: 20px;
   }
 
@@ -62,6 +64,11 @@
   .btn {
     min-width: 260px;
     font-size: 1rem;
+  }
+
+  /* This is pipec! todo: refactoring */
+  .navigation--white .holder .navigation__items ul li a, .navigation--colored .holder .navigation__items ul li a {
+    color: #ffffff;
   }
 }
 

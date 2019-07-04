@@ -622,12 +622,12 @@ footer .phone {
   background-color: #ffd251;
 }
 
-.btn--black--in-yellow {
+.btn--black--in-colored {
   color: #ffffff;
   background-color: #000000;
 }
 
-.btn--black--in-yellow:hover {
+.btn--black--in-colored:hover {
   color: #ffffff;
   background-color: #1f1f1f;
 }
